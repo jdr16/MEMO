@@ -7,3 +7,8 @@
 
 # git
 
+- 这边git好像可以自动commit，但是需要手动push
+- 考虑一下能不能让他自己push（？
+- 以及commit的时候不能手动输入commit的内容，没有命令行嘛这个
+- 
+
