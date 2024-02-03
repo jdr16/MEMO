@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc7701f815d965ef",
+        "id": "6dac04c720ba7b35",
         "type": "tabs",
         "children": [
           {
-            "id": "ada1d9e0d931c713",
+            "id": "4f3f5998ab91bb27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "接口技术/00_Readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "接口技术/00_Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "接口技术/00_Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "接口技术/00_Readme.md"
+              }
             }
           }
         ]
@@ -130,16 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
   "active": "627b0150a3178716",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "接口技术/00_Readme.md",
     "接口技术",
     "README.md"
   ]
