@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接口技术/00_Readme.md",
+                "file": "接口技术/01_绪论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "接口技术/00_Readme.md",
+                "file": "接口技术/01_绪论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口技术/00_Readme.md"
+                "file": "接口技术/01_绪论.md"
               }
             }
           }
@@ -159,14 +160,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91f518fb1b83bd8e",
+  "active": "51dbeae0071a58c8",
   "lastOpenFiles": [
+    "接口技术/00_Readme.md",
     "接口技术/01_绪论.md",
     "截屏2024-05-10 21.48.23.png",
     "截屏2024-05-10 21.12.53.png",
     "截屏2024-05-10 21.11.40.png",
     "截屏2024-05-10 21.10.14.png",
-    "接口技术/00_Readme.md",
     "Untitled.canvas",
     "接口技术",
     "README.md"
