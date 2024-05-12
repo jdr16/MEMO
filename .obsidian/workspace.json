@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "接口技术/01_绪论.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 493.5,
+    "collapsed": true
   },
   "right": {
     "id": "d92914cb042be034",
