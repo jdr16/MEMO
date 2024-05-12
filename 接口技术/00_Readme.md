@@ -6,8 +6,10 @@
 - https://b23.tv/UEaEqlt
 
 # 学习进度
-- [ ] 1-4 绪论（四）   <progress value=3 max=4></progress>
-- [ ] 5-12 数制与码制（八）  
+- [x] 1-4 绪论（四）   
+	-  <progress value=4 max=4></progress>
+- [ ] 5-12 数制与码制（八）
+	- <progress value=0 max=8></progress>
 - [ ] 13-23 8086结构与功能（十一）  
 - [ ] 24-64 8086指令系统（四十一）  
 - [ ] 65-70 汇编语言程序设计（六）  

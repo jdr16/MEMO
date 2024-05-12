@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbfea137ec5763de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "接口技术/02 计算机中的数制与码制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接口技术/01_绪论.md",
+                "file": "接口技术/00_Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "接口技术/01_绪论.md",
+                "file": "接口技术/00_Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接口技术/01_绪论.md"
+                "file": "接口技术/00_Readme.md"
               }
             }
           }
@@ -160,8 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51dbeae0071a58c8",
+  "active": "91f518fb1b83bd8e",
   "lastOpenFiles": [
+    "接口技术/02 计算机中的数制与码制.md",
+    "接口技术/01_绪论.md",
     "接口技术/fig/截屏2024-05-10 22.32.53.png",
     "接口技术/fig/截屏2024-05-10 22.27.06.png",
     "接口技术/fig/截屏2024-05-10 21.48.23.png",
@@ -172,11 +185,9 @@
     "接口技术/截屏2024-05-10 22.27.06.png",
     "接口技术/截屏2024-05-10 21.48.23.png",
     "接口技术/截屏2024-05-10 21.12.53.png",
-    "接口技术/截屏2024-05-10 21.11.40.png",
     "接口技术/fig",
     "接口技术/未命名文件夹",
     "接口技术/00_Readme.md",
-    "接口技术/01_绪论.md",
     "Untitled.canvas",
     "接口技术",
     "README.md"
