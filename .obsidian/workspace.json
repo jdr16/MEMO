@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "接口技术/00_Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a71c4e68d35d7aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "接口技术/02 计算机中的数制与码制.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +160,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91f518fb1b83bd8e",
+  "active": "a71c4e68d35d7aba",
   "lastOpenFiles": [
     "接口技术/00_Readme.md",
     "接口技术/02 计算机中的数制与码制.md",
